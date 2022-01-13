@@ -25,10 +25,6 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=DeepMP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<<<<<<< HEAD
-
-=======
->>>>>>> e32a1b19dd5c1bac129d83a14f48de4e278d2584
 <a href="https://github.com/cbg-ethz/BnpC">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cbg-ethz&repo=BnpC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -43,12 +39,7 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=contripscore&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<<<<<<< HEAD
-
-
-=======
 ## :chart_with_upwards_trend: GitHub Stats 
->>>>>>> e32a1b19dd5c1bac129d83a14f48de4e278d2584
 
 [![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepebonet)](https://github.com/pepebonet/github-readme-stats)
 
