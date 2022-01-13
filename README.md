@@ -13,8 +13,37 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
 
 ## :pencil: Latest blog Posts
 
+- [8 Rules for a PhD](https://www.pepesjourney.com/post/8-rules-for-a-phd)
+- [Should I start a PhD? Tips and challenges](https://www.pepesjourney.com/post/should-i-start-a-phd-tips-and-challenges)
+- [What to do after the PhD? (Chapter 1)](https://www.pepesjourney.com/post/what-to-do-after-the-phd)
+- [Pros and cons of Academia (As a PhD)](https://www.pepesjourney.com/post/pros-and-cons-of-academia-as-a-phd)
 
 
+## :pushpin: Pinned Repositories 
+
+<a href="https://github.com/pepebonet/DeepMP">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=DeepMP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+<a href="https://github.com/cbg-ethz/BnpC">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cbg-ethz&repo=BnpC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/pepebonet/nano_damage">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=nano_damage&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/pepebonet/contripscore">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=contripscore&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
+
+
+[![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepebonet)](https://github.com/pepebonet/github-readme-stats)
 
 <!--
 **pepebonet/pepebonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
