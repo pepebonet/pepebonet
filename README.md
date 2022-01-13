@@ -19,7 +19,7 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
 - [Pros and cons of Academia (As a PhD)](https://www.pepesjourney.com/post/pros-and-cons-of-academia-as-a-phd)
 
 
-<!-- Pinned Repositories -- >
+## :pushpin: Pinned Repositories 
 
 <a href="https://github.com/pepebonet/contripscore">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pepebonet&repo=contripscore&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
