@@ -13,6 +13,7 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
 
 ## :pencil: Latest blog Posts
 
+- [Top Scientist on the 8 Rules for a PhD](https://www.pepesjourney.com/post/top-spanish-scientist-on-the-8-rules-for-a-phd)
 - [8 Rules for a PhD](https://www.pepesjourney.com/post/8-rules-for-a-phd)
 - [Should I start a PhD? Tips and challenges](https://www.pepesjourney.com/post/should-i-start-a-phd-tips-and-challenges)
 - [What to do after the PhD? (Chapter 1)](https://www.pepesjourney.com/post/what-to-do-after-the-phd)
