@@ -20,6 +20,7 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
 - [What to do after the PhD? (Chapter 1)](https://www.pepesjourney.com/post/what-to-do-after-the-phd)
 - [Pros and cons of Academia (As a PhD)](https://www.pepesjourney.com/post/pros-and-cons-of-academia-as-a-phd)
 - [How did it feel to be in some of the best Universities in the world?](https://www.pepesjourney.com/post/being-in-some-of-the-best-universities-in-the-world)
+- [Who is Pepe Bonet and what is this blog about?](https://www.pepesjourney.com/post/what-is-this-blog-about)
 
 
 ## :pushpin: Pinned Repositories 
