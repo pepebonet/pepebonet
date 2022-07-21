@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-I am Pepe, a fourth year Ph.D. student in the field of computational biology. In short, I build machine learning models that can better solve biological problems. Currently working on how to develop my tech skills and building a company to give value to other companies through AI and ML. 
+I  am Pepe, a former Computational Ph.D. student building a tech consulting service company. The main goal is to bring business value to companies through AI, ML, and data visualization.
 
 Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.com/)
 
