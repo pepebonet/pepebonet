@@ -13,6 +13,7 @@ Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.c
 
 ## :pencil: Latest blog Posts
 
+- [On the Importance of Writing in your Life](https://www.pepesjourney.com/post/on-the-importance-of-writing-in-your-life)
 - [5 Reasons Why Reading Will Change Your Life](https://www.pepesjourney.com/post/5-reasons-why-reading-will-change-your-life)
 - [Top Scientist on the 8 Rules for a PhD](https://www.pepesjourney.com/post/top-spanish-scientist-on-the-8-rules-for-a-phd)
 - [8 Rules for a PhD](https://www.pepesjourney.com/post/8-rules-for-a-phd)
