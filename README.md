@@ -6,13 +6,14 @@
 
 ### Hi there 👋
 
-I  am Pepe, a former Computational Ph.D. student building a tech consulting service company. The main goal is to bring business value to companies through AI, ML, and data visualization.
+I  am Pepe, I am the Co-founder and CEO of Hynts Analytics and former Computational Ph.D. student. Hynts is a tech consulting service company, which main goal is to bring business value to companies through AI, ML, and data visualization.
 
 Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.com/)
 
 
 ## :pencil: Latest blog Posts
 
+- [Building a Company after the PhD](https://www.pepesjourney.com/post/building-a-company-after-the-ph-d)
 - [On the Importance of Writing in your Life](https://www.pepesjourney.com/post/on-the-importance-of-writing-in-your-life)
 - [5 Reasons Why Reading Will Change Your Life](https://www.pepesjourney.com/post/5-reasons-why-reading-will-change-your-life)
 - [Top Scientist on the 8 Rules for a PhD](https://www.pepesjourney.com/post/top-spanish-scientist-on-the-8-rules-for-a-phd)
