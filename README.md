@@ -3,6 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pepeb_5)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
+[![Hynts Badge](https://i0.wp.com/hyntsanalytics.com/wp-content/uploads/2022/07/cropped-logo.png?resize=768%2C256&ssl=1](https://hyntsanalytics.com/)
 
 ### Hi there 👋
 
