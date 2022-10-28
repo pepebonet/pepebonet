@@ -2,8 +2,8 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pepeb_5)
-[![LinkedIn Badge](https://img.shields.io/badge/hynts-company-orange)](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
-[![Hynts Badge](https://i0.wp.com/hyntsanalytics.com/wp-content/uploads/2022/07/cropped-logo.png?resize=768%2C256&ssl=1](https://hyntsanalytics.com/)
+[![LinkedIn Badge]()](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
+[![Hynts Badge](https://img.shields.io/badge/hynts-company-orange)](https://hyntsanalytics.com/)
 
 ### Hi there 👋
 
