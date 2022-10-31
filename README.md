@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/pepeb_5)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
 [![Hynts Badge](https://img.shields.io/badge/hynts-company-orange)](https://hyntsanalytics.com/)
+[![PepesJourney Badge](https://img.shields.io/badge/pepesjourney-blog-brightgreen)](https://www.pepesjourney.com/)
 
 ### Hi there 👋
 
