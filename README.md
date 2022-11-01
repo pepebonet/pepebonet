@@ -5,6 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
 [![Hynts Badge](https://img.shields.io/badge/hynts-company-orange)](https://hyntsanalytics.com/)
 [![PepesJourney Badge](https://img.shields.io/badge/pepesjourney-blog-brightgreen)](https://www.pepesjourney.com/)
+[![Scholar Badge](https://img.shields.io/badge/publications-scholar-yellow)](https://scholar.google.com/citations?user=jrR9X5IAAAAJ&hl=en&oi=sra)
 
 ### Hi there 👋
 
