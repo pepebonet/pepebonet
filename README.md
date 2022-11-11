@@ -11,7 +11,7 @@
 
 I  am Pepe, I am the Co-founder and CEO of Hynts Analytics and former Computational Ph.D. student. Hynts is a tech consulting service company, which main goal is to bring business value to companies through AI, ML, and data visualization.
 
-Do you want to know more about me? [pepesjourney.com](https://www.pepesjourney.com/)
+Do you want to know more about me or my career? [pepesjourney.com](https://www.pepesjourney.com/) [mylinkedin](https://www.linkedin.com/in/jose-bonet-giner-2a3993147/)
 
 Do you want to know more about Hynts Analytics? [hyntsanalytics.com](https://hyntsanalytics.com/)
 
