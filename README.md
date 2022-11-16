@@ -18,6 +18,7 @@ Do you want to know more about Hynts Analytics? [hyntsanalytics.com](https://hyn
 
 ## :pencil: Latest blog Posts
 
+- [Is it necessary to find your passion?](https://www.pepesjourney.com/post/is-it-necessary-to-find-your-passion)
 - [Building a Company after the PhD](https://www.pepesjourney.com/post/building-a-company-after-the-ph-d)
 - [On the Importance of Writing in your Life](https://www.pepesjourney.com/post/on-the-importance-of-writing-in-your-life)
 - [5 Reasons Why Reading Will Change Your Life](https://www.pepesjourney.com/post/5-reasons-why-reading-will-change-your-life)
