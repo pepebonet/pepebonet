@@ -53,7 +53,7 @@ Do you want to know more about Hynts Analytics? [hyntsanalytics.com](https://hyn
 
 ## :chart_with_upwards_trend: GitHub Stats 
 
-[![Pepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepebonet&count_private=true)](https://github.com/pepebonet/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pepebonet&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 
